@@ -1,0 +1,39 @@
+D:\Учеба\поддержка\курс\credit\credit\bin\Debug\credit.exe.config
+D:\Учеба\поддержка\курс\credit\credit\bin\Debug\credit.exe
+D:\Учеба\поддержка\курс\credit\credit\bin\Debug\credit.pdb
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.csprojAssemblyReference.cache
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Properties.Resources.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.csproj.GenerateResource.cache
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.csproj.CoreCompileInputs.cache
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.exe
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.pdb
+D:\Учеба\поддержка\курс\credit\credit\bin\Debug\Database1.mdf
+D:\Учеба\поддержка\курс\credit\credit\bin\Debug\Database1_log.ldf
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form1.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form2.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form3.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form4.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form5.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form6.resources
+D:\Учеба\поддержка\курс\credit\credit\obj\Debug\credit.Form7.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\bin\Debug\Database1.mdf
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\bin\Debug\Database1_log.ldf
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\bin\Debug\credit.exe.config
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\bin\Debug\credit.exe
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\bin\Debug\credit.pdb
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.csprojAssemblyReference.cache
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form1.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form2.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form3.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form4.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form5.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form6.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Form7.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.Properties.Resources.resources
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.csproj.GenerateResource.cache
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.exe
+D:\Учеба\6 семестр\поддержка\курс\credit\credit\obj\Debug\credit.pdb
+C:\Users\slava\Downloads\podderzhka\поддержка\курс\credit\credit\obj\Debug\credit.csproj.AssemblyReference.cache
+C:\Users\slava\Downloads\podderzhka\поддержка\курс\credit\credit\obj\Debug\credit.exe
+C:\Users\slava\Downloads\podderzhka\поддержка\курс\credit\credit\obj\Debug\credit.pdb
